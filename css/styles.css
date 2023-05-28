@@ -1,0 +1,26 @@
+h1 {
+  color: navy;
+  background-color: rgb(194, 144, 144);
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+  font-style: italic;
+  text-align: center;
+  font-weight: 700;
+}
+
+p {
+  color: green;
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+body {
+  background-color: rgb(24, 22, 22);
+}
